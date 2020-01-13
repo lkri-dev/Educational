@@ -1,5 +1,4 @@
 # Educational
 A repository for educational lessons.
 
-conflict test
-remote
+Revert with git bash test
